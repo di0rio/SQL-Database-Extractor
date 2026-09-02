@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+*.dump
+*.bak
+.next/
+.turbo/
+coverage/
+dist/
+*.tsbuildinfo
+.DS_Store
+*.pem
